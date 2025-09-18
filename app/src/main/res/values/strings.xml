@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">USTHWeather</string>
+    <string name="Tuesday">Tue</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thu</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="Sunday">Sun</string>
+    <string name="windy">windy</string>
+    <string name="snowy">snowy</string>
+    <string name="rainy">rainy</string>
+    <string name="sunny">sunny</string>
+    <string name="sunshine">sunshine</string>
+    <string name="paris">Paris</string>
+    <string name="hanoi">Hanoi</string>
+    <string name="toulouse" translatable="false">Toulouse</string>
+    <string name="Monday">Mon</string>
+    <string name="action_refresh" translatable="false">action_refresh</string>
+    <string name="action_settings" translatable="false">action_settings</string>
+    <string name="title_activity_pref">PrefActivity</string>
+
+</resources>
